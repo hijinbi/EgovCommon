@@ -273,7 +273,7 @@
             <artifactId>icu4j</artifactId>
             <version>53.1</version>
         </dependency>
-
+2
         <!-- FTP용 3rd party 라이브러리 -->
         <dependency>
             <groupId>commons-net</groupId>
